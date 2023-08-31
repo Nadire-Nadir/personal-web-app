@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/personal-web-app/static/css/main.c02ac981.css",
+    "main.js": "/personal-web-app/static/js/main.dedd1375.js",
+    "static/media/about-img.png": "/personal-web-app/static/media/about-img.35b28e78391883745811.png",
+    "static/media/pic.png": "/personal-web-app/static/media/pic.b87744ac7844ada99380.png",
+    "static/media/car-rental.png": "/personal-web-app/static/media/car-rental.76c0b344dd7cebead71d.png",
+    "static/media/city-bike.png": "/personal-web-app/static/media/city-bike.7796268c53ce95a80b5a.png",
+    "index.html": "/personal-web-app/index.html",
+    "main.c02ac981.css.map": "/personal-web-app/static/css/main.c02ac981.css.map",
+    "main.dedd1375.js.map": "/personal-web-app/static/js/main.dedd1375.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c02ac981.css",
+    "static/js/main.dedd1375.js"
+  ]
+}
